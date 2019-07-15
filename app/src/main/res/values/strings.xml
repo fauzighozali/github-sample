@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Sample</string>
+    <string name="radio_public">Public</string>
+    <string name="radio_private">Private</string>
+</resources>
